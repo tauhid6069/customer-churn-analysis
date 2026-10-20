@@ -1,0 +1,7 @@
+Layer,Type,Output shape,Activation,Dropout rate,Parameters
+input,Input,"(None, 10)",,,0
+dense,Dense,"(None, 16)",relu,,176
+dropout,Dropout,"(None, 16)",,0.3,0
+dense_1,Dense,"(None, 8)",relu,,136
+dropout_1,Dropout,"(None, 8)",,0.19999999999999998,0
+dense_2,Dense,"(None, 1)",sigmoid,,9

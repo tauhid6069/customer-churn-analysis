@@ -1,0 +1,4 @@
+Model,Accuracy,Precision (Churn),Recall (Churn),F1 (Churn),ROC-AUC,Churners caught,Churners missed,False alarms
+"Tuned, no class weights",0.79,0.648,0.458,0.537,0.818,164,194,89
+Class-weighted,0.732,0.496,0.788,0.609,0.819,282,76,286
+Grid search best (final),0.715,0.478,0.804,0.6,0.816,288,70,314

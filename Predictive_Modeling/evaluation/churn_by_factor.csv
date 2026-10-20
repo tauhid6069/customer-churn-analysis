@@ -1,0 +1,24 @@
+Group,Factor,Customers,Actual_churn_rate,Avg_predicted_probability,Flagged_as_churn
+Month-to-month,Contract,3653,0.275,0.454,0.472
+One year,Contract,1439,0.259,0.43,0.421
+Two year,Contract,1649,0.252,0.413,0.401
+0-12 months,Tenure_Band,1996,0.483,0.648,0.821
+13-24 months,Tenure_Band,993,0.294,0.545,0.653
+25-48 months,Tenure_Band,1570,0.206,0.404,0.392
+49-72 months,Tenure_Band,2182,0.096,0.224,0.042
+Up to 35,Charge_Band,1568,0.112,0.24,0.134
+36 to 65,Charge_Band,1381,0.223,0.421,0.46
+66 to 90,Charge_Band,2142,0.354,0.534,0.615
+Over 90,Charge_Band,1650,0.333,0.519,0.503
+DSL,InternetService,3776,0.275,0.444,0.449
+Fiber optic,InternetService,2965,0.254,0.433,0.437
+No,MultipleLines,3895,0.268,0.432,0.421
+Yes,MultipleLines,2846,0.262,0.448,0.475
+0,SeniorCitizen,5611,0.236,0.411,0.398
+1,SeniorCitizen,1130,0.412,0.579,0.671
+No,Dependents,4690,0.313,0.494,0.54
+Yes,Dependents,2051,0.158,0.314,0.225
+No,PhoneService,673,0.247,0.374,0.379
+Yes,PhoneService,6068,0.268,0.446,0.451
+Female,gender,3348,0.271,0.449,0.453
+Male,gender,3393,0.261,0.429,0.435
